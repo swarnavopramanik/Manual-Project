@@ -13,7 +13,11 @@ The projects were completed using a combination of manual testing techniques and
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Manual Testing, Test Case Design, Test Data Management | 
+| Project 1    | Tested a Flights booking web application for functionality and usability. | Manual Testing, Test Case Design, Test Data Management | 
+
+| Project Name | Description | Tools Used |
+|--------------|-------------|------------|
+| Project 2    | Tested a E-Commerce web application for functionality and usability. | Manual Testing, Test Case Design, Test Data Management | 
 
 
 ## Getting Started
